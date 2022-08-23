@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <title>Material Dashboard 2 by Creative Tim</title>
-<link href="{{url('MaterialDashboard/css/nucleo-icons.css')}}" rel="stylesheet" />
+<link href="MaterialDashboard/css/nucleo-icons.css" rel="stylesheet" />
 <link href="{{url('MaterialDashboard/css/nucleo-svg.css')}}" rel="stylesheet" />
 <script src="{{url('MaterialDashboard/js/42d5adcbca.js')}}" crossorigin="anonymous"></script>
 <link id="pagestyle" href="{{url('MaterialDashboard/css/material-dashboard.min.css')}}" rel="stylesheet" />
