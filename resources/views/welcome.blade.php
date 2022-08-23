@@ -4,11 +4,11 @@
 <meta charset="utf-8" />
 <title>Material Dashboard 2 by Creative Tim</title>
 <link href="MaterialDashboard/css/nucleo-icons.css" rel="stylesheet" />
-<link href="{{url('MaterialDashboard/css/nucleo-svg.css')}}" rel="stylesheet" />
-<script src="{{url('MaterialDashboard/js/42d5adcbca.js')}}" crossorigin="anonymous"></script>
-<link id="pagestyle" href="{{url('MaterialDashboard/css/material-dashboard.min.css')}}" rel="stylesheet" />
-<link id="pagestyle" href="{{url('MaterialDashboard/css/extra.css')}}" rel="stylesheet" />
-<script src="{{url('MaterialDashboard/js/extra.js')}}"></script>
+<link href="MaterialDashboard/css/nucleo-svg.css" rel="stylesheet" />
+<script src="MaterialDashboard/js/42d5adcbca.js" crossorigin="anonymous"></script>
+<link id="pagestyle" href="MaterialDashboard/css/material-dashboard.min.css" rel="stylesheet" />
+<link id="pagestyle" href="MaterialDashboard/css/extra.css" rel="stylesheet" />
+<script src="MaterialDashboard/js/extra.js"></script>
 </head>
 <body class="g-sidenav-show  bg-gray-200">
 
@@ -91,12 +91,12 @@
 </div>
 </div>
 
-<script src="{{url('MaterialDashboard/js/extra-popper.min.js')}}"></script>
-<script src="{{url('MaterialDashboard/js/bootstrap.min.js')}}"></script>
-<script src="{{url('MaterialDashboard/js/perfect-scrollbar.min.js')}}"></script>
-<script src="{{url('MaterialDashboard/js/smooth-scrollbar.min.js')}}"></script>
-<script src="{{url('MaterialDashboard/js/chartjs.min.js')}}"></script>
-<script src="{{url('MaterialDashboard/js/extra-final.js')}}"></script>
+<script src="MaterialDashboard/js/extra-popper.min.js"></script>
+<script src="MaterialDashboard/js/bootstrap.min.js"></script>
+<script src="MaterialDashboard/js/perfect-scrollbar.min.js"></script>
+<script src="MaterialDashboard/js/smooth-scrollbar.min.js"></script>
+<script src="MaterialDashboard/js/chartjs.min.js"></script>
+<script src="MaterialDashboard/js/extra-final.js"></script>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <script src="../assets/js/material-dashboard.min.js?v=3.0.4"></script>
 </body>
